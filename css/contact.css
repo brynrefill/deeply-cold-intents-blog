@@ -1,0 +1,12 @@
+/* contact section */
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--third);
+}
+
+div#contact {
+    margin-top: 100px;
+}

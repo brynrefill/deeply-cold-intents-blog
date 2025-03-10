@@ -1,0 +1,21 @@
+/* about section */
+.about {
+    background-color: var(--third);
+}
+
+#about .title {
+    margin-top: 100px;
+}
+
+#about .title p {
+    margin-bottom: 0;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+
+.staff {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
